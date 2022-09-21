@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"net/url"
 
+	"github.com/apoorvdeshmukh/go-sqlcmd/internal/util"
 	"github.com/microsoft/go-mssqldb/azuread"
-	"github.com/microsoft/go-sqlcmd/internal/util"
 )
 
 // ConnectSettings specifies the settings for connections

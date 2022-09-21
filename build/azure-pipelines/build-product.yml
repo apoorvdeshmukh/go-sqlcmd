@@ -89,7 +89,7 @@ stages:
                 },
                 {
                   "parameterName": "OpusInfo",
-                  "parameterValue": "https://github.com/microsoft/go-sqlcmd"
+                  "parameterValue": "https://github.com/apoorvdeshmukh/go-sqlcmd"
                 },
                 {
                   "parameterName": "PageHash",

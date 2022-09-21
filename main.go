@@ -3,7 +3,7 @@
 
 package main
 
-import "github.com/microsoft/go-sqlcmd/cmd"
+import "github.com/apoorvdeshmukh/go-sqlcmd/cmd"
 
 func main() {
 	cmd.Execute()

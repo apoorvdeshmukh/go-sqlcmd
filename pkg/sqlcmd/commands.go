@@ -12,7 +12,7 @@ import (
 	"strings"
 
 	"github.com/alecthomas/kong"
-	"github.com/microsoft/go-sqlcmd/internal/util"
+	"github.com/apoorvdeshmukh/go-sqlcmd/internal/util"
 	"golang.org/x/text/encoding/unicode"
 	"golang.org/x/text/transform"
 )

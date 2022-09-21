@@ -55,7 +55,7 @@ Priority: extra
 Maintainer: sqlcmd tools team <dpgswdist@microsoft.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
-Homepage: https://github.com/microsoft/go-sqlcmd
+Homepage: https://github.com/apoorvdeshmukh/go-sqlcmd
 
 Package: sqlcmd
 Architecture: all
@@ -73,7 +73,7 @@ Source: PUBLIC
 
 Files: *
 Copyright: Copyright (c) Microsoft Corporation
-License: https://github.com/microsoft/go-sqlcmd/blob/main/LICENSE
+License: https://github.com/apoorvdeshmukh/go-sqlcmd/blob/main/LICENSE
 
 MIT License
 

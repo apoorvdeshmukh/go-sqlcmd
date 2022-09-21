@@ -16,11 +16,11 @@
 %global _missing_build_ids_terminate_build 0
 
 Summary:        MSSQL SQLCMD CLI Tools
-License:        https://github.com/microsoft/go-sqlcmd/blob/main/LICENSE
+License:        https://github.com/apoorvdeshmukh/go-sqlcmd/blob/main/LICENSE
 Name:           %{name}
 Version:        %{version}
 Release:        %{release}
-Url:            https://github.com/microsoft/go-sqlcmd
+Url:            https://github.com/apoorvdeshmukh/go-sqlcmd
 BuildArch:      x86_64
 
 %description

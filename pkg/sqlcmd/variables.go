@@ -9,7 +9,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/microsoft/go-sqlcmd/internal/util"
+	"github.com/apoorvdeshmukh/go-sqlcmd/internal/util"
 )
 
 // Variables provides set and get of sqlcmd scripting variables
